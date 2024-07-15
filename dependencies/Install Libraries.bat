@@ -1,0 +1,16 @@
+pip install numpy
+pip install tk
+pip install opencv-python
+pip install configparser
+pip install PyQt5
+pip install bs4
+pip install requests
+pip install asyncio
+pip install scikit-learn
+pip install keras
+pip install matplotlib
+pip install scikit-image
+pip install pandas
+pip install platformdirs
+pip install PyQtWebEngine
+pip install tensorflow
